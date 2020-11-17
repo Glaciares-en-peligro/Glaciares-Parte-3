@@ -16,7 +16,7 @@
 - [ ] 5. Escenario de Debate constitucional: Proyecciones
 
 ---
-### Visualización Web PC
+## Visualización Web PC
 
 ![Francisco PC.png](https://github.com/Glaciares-en-peligro/Glaciares-Parte-3/blob/main/img/Francisco%20PC.png?raw=true)
 
@@ -25,7 +25,7 @@
 ![Deterioro PC.png](https://github.com/Glaciares-en-peligro/Glaciares-Parte-3/blob/main/img/Deterioro%20PC.png?raw=true)
 
 ---
-### Visualización Móvil - Celular
+## Visualización Móvil - Celular
 
 ![Francisco Celular.png](https://github.com/Glaciares-en-peligro/Glaciares-Parte-3/blob/main/img/Francisco%20Celular.png?raw=true)
 
