@@ -1,8 +1,6 @@
 # Glaciares Chilenos: Extractivismo y Protección legal en el marco Constitucional
 ## Avance Trabajo Infografía --> 16|11|2020
 
-![glaciares](https://www.terram.cl/wp-content/uploads/2020/07/blog-glaciar-2-1024x640.jpg)
-
 ## Equipo humano
 - Francisco Alvarez: Redacción.
 - Rosario Olivares: Diseño web.
@@ -18,6 +16,7 @@
 ---
 ## Visualización Web PC
 
+![glaciares](https://www.terram.cl/wp-content/uploads/2020/07/blog-glaciar-2-1024x640.jpg)
 ![Francisco PC.png](https://github.com/Glaciares-en-peligro/Glaciares-Parte-3/blob/main/img/Francisco%20PC.png?raw=true)
 
 ![pag web glaciar SA-100.jpg](https://github.com/Glaciares-en-peligro/Glaciares-Parte-3/blob/main/img/pag%20web%20glaciar%20SA-100.jpg?raw=true)
