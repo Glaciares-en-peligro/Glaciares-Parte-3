@@ -24,6 +24,7 @@
 
 ![Deterioro PC.png](https://github.com/Glaciares-en-peligro/Glaciares-Parte-3/blob/main/img/Deterioro%20PC.png?raw=true)
 
+---
 ### Visualización Móvil - Celular
 
 ![Francisco Celular.png](https://github.com/Glaciares-en-peligro/Glaciares-Parte-3/blob/main/img/Francisco%20Celular.png?raw=true)
