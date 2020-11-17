@@ -3,8 +3,8 @@
 
 ## Equipo humano
 - Francisco Alvarez: Redacción.
-- Rosario Olivares: Diseño web.
-- Silvio Arribas: Diseño gráfico.
+- Rosario Olivares: Diseño gráfico.
+- Silvio Arribas: Diseño web.
 
 Índice temático
 - [ ] 1. Glaciares (que, beneficios, riesgos) e impacto medioambiental
